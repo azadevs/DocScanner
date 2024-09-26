@@ -83,7 +83,7 @@ class MainActivity : ComponentActivity() {
                                     ).show()
                                 }
                         }) {
-                            Text(text = "Scan PDF")
+                            Text(text = "Scan Document")
                         }
                     }
                 }
